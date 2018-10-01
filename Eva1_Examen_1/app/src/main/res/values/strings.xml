@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Problema 1</string>
+    <string name="rd_volumen">Accion: Calcular volumen</string>
+    <string name="rd_area">Accion: Calcular area</string>
+    <string name="rd_volumen_cuña">Accion: Calcular volumen de cuña esferica</string>
+    <string name="txt_m3">m3</string>
+    <string name="txt_m2">m2</string>
+</resources>
